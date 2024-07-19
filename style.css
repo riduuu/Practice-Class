@@ -1,0 +1,9 @@
+h1{
+    color: rgb(13, 142, 26);
+    text-align: center;
+    text-transform:capitalize;
+
+    }
+    p{
+      border: 3px solid black;
+    }
